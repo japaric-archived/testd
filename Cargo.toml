@@ -1,0 +1,11 @@
+[package]
+authors = ["Jorge Aparicio <japaricious@gmail.com>"]
+name = "testd"
+version = "0.1.0"
+
+[dependencies]
+bincode = "0.6.1"
+byteorder = "1.0.0"
+serde = "0.8.21"
+serde_derive = "0.8.21"
+tempdir = "0.3.5"
